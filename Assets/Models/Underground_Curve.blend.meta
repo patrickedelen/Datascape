@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 9127c8d1c545f2e499d047b9ab3e63f6
+timeCreated: 1455267588
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Road
+    100002: //RootNode
+    100004: Walls
+    100006: Pipes
+    100008: Pipes_001
+    100010: Walls_Left
+    100012: Walls_Right
+    100014: Walls_Right_001
+    100016: Walls_Right_002
+    100018: Walls_Right_003
+    100020: Walls_Right_004
+    100022: Walls_Right_005
+    100024: Walls_Right_006
+    100026: Walls_Right_007
+    400000: Road
+    400002: //RootNode
+    400004: Walls
+    400006: Pipes
+    400008: Pipes_001
+    400010: Walls_Left
+    400012: Walls_Right
+    400014: Walls_Right_001
+    400016: Walls_Right_002
+    400018: Walls_Right_003
+    400020: Walls_Right_004
+    400022: Walls_Right_005
+    400024: Walls_Right_006
+    400026: Walls_Right_007
+    2300000: Road
+    2300002: Walls
+    2300004: Pipes
+    2300006: Pipes_001
+    2300008: Walls_Left
+    2300010: Walls_Right
+    2300012: Walls_Right_001
+    2300014: Walls_Right_002
+    2300016: Walls_Right_003
+    2300018: Walls_Right_004
+    2300020: Walls_Right_005
+    2300022: Walls_Right_006
+    2300024: Walls_Right_007
+    3300000: Road
+    3300002: Walls
+    3300004: Pipes
+    3300006: Pipes_001
+    3300008: Walls_Left
+    3300010: Walls_Right
+    3300012: Walls_Right_001
+    3300014: Walls_Right_002
+    3300016: Walls_Right_003
+    3300018: Walls_Right_004
+    3300020: Walls_Right_005
+    3300022: Walls_Right_006
+    3300024: Walls_Right_007
+    4300000: Walls
+    4300002: Road
+    4300004: Pipes
+    4300006: Pipes_001
+    4300008: Walls_Right
+    4300010: Walls_Left
+    4300012: Walls_Right_007
+    4300014: Walls_Right_006
+    4300016: Walls_Right_005
+    4300018: Walls_Right_004
+    4300020: Walls_Right_003
+    4300022: Walls_Right_002
+    4300024: Walls_Right_001
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
